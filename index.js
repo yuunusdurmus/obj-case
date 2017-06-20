@@ -1,6 +1,6 @@
 
 var identity = function(_){ return _; };
-
+var normalize = null;
 
 /**
  * Module exports, export
